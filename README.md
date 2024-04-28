@@ -1,0 +1,1 @@
+# django-studnet-management-sysyem-for-academic-institution
